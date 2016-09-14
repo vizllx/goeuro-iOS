@@ -1,5 +1,5 @@
 # goeuro-iOS
-A demo Application developed combining both Objective C and Swift which shows GoEuro's list of trains,buses and airlines. It has a unique startup animation which can be evaluated.
+A demo Application developed combining both Objective C and Swift which shows GoEuro's list of trains,buses and airlines. It has an unique startup animation which can be evaluated.
 
 
 GoEuro iOS Test
